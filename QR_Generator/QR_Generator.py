@@ -1,3 +1,4 @@
+
 # Code 
 
 import pyqrcode # Module that transformation text or url to QRCode
